@@ -6,63 +6,22 @@
       "id": 1
     },
     {
-      "title": "My stream",
-      "description": "This stream!",
-      "id": 2
-    },
-    {
-      "title": "My 2nd Stream",
-      "description": "Great stream here!",
-      "id": 3
-    },
-    {
-      "title": "Many Streams",
-      "description": "So many streams!!",
-      "id": 4
-    },
-    {
-      "title": "Many Streams",
-      "description": "So many streams!!",
-      "id": 5
-    },
-    {
-      "title": "Other Stream",
-      "description": "New stream",
-      "id": 6
-    },
-    {
-      "title": "igygyg",
-      "description": "uguygyig",
-      "id": 7
-    },
-    {
-      "title": "igygyg",
-      "description": "uguygyig",
-      "id": 8
-    },
-    {
-      "title": "I Created This Stream",
-      "description": "This was made by me!",
+      "title": "Unexpected behavior",
+      "description": "Didn't expect that!",
       "userId": "103391360084253644024",
-      "id": 9
+      "id": 13
     },
     {
-      "title": "I Created This Stream",
-      "description": "This was made by me!",
+      "title": "Programmatic navigation",
+      "description": "You should not see this on the form page!!!",
       "userId": "103391360084253644024",
-      "id": 10
+      "id": 14
     },
     {
-      "title": "Test",
-      "description": "Test Stream",
+      "title": "Me streaming component reuse",
+      "description": "Watch me refactor some components!",
       "userId": "103391360084253644024",
-      "id": 11
-    },
-    {
-      "title": "Test",
-      "description": "Test #2",
-      "userId": "103391360084253644024",
-      "id": 12
+      "id": 15
     }
   ]
 }
