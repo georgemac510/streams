@@ -7,20 +7,19 @@
     },
     {
       "title": "Unexpected behavior",
-      "description": "Didn't expect that!",
+      "description": "This change was made by a PATCH request.",
       "userId": "103391360084253644024",
       "id": 13
     },
     {
       "title": "Programmatic navigation",
-      "description": "You should not see this on the form page!!!",
+      "description": "PATCH request is better than PUT request!",
       "userId": "103391360084253644024",
       "id": 14
     },
     {
       "title": "Me streaming component reuse",
-      "description": "Watch me refactor some components!",
-      "userId": "103391360084253644024",
+      "description": "My stream is about refactoring!",
       "id": 15
     }
   ]
